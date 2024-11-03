@@ -16,7 +16,7 @@ class Description extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title:
-            ModifiedText(text: 'Descriptions', color: Colors.white, size: 20),
+           const  ModifiedText(text: 'Descriptions', color: Colors.white, size: 20),
         backgroundColor: Colors.black,
       ),
       backgroundColor: Colors.black,
