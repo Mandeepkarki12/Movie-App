@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:movieapp/utils/text.dart';
-
 class Description extends StatelessWidget {
   final String name, description, bannerUrl, posterUrl, vote, launchingDate;
   const Description(
